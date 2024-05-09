@@ -25,3 +25,9 @@ The analysis utilizes R programming language and several R packages, including `
 - **R Script**: The main R script (`wordcloud.R`) extracts text from PDF documents, cleans and preprocesses the text data, generates word clouds, and visualizes the results.
   
 - **Data**: This folder contains the PDF files of the BJP and Congress manifestos used for analysis.
+
+#### BJP Manifesto Word Cloud
+![BJP Word Cloud](BJP final.jpeg)
+
+#### Congress Manifesto Word Cloud
+![Congress Word Cloud](congress.jpeg)
