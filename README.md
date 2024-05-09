@@ -27,7 +27,7 @@ The analysis utilizes R programming language and several R packages, including `
 - **Data**: This folder contains the PDF files of the BJP and Congress manifestos used for analysis.
 
 #### BJP Manifesto Word Cloud
-![BJP Word Cloud](BJP final.jpeg)
+![BJP Word Cloud](https://github.com/jhapriyanshu16/BJP-vs-Congress-2024-Manifesto-Word-Cloud/blob/f182789f26d64938d21604c36a3e1b350d8c7cdf/BJP%20final.jpeg)
 
 #### Congress Manifesto Word Cloud
 ![Congress Word Cloud](congress.jpeg)
